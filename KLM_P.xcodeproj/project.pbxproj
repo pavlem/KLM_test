@@ -138,12 +138,12 @@
 			isa = PBXGroup;
 			children = (
 				2B357ADE275538EF009F936B /* App */,
-				2B357A9F275537E1009F936B /* Lib */,
 				2B357AB3275537E1009F936B /* Models */,
-				2B357A9B275537E1009F936B /* Resources */,
+				2B357A96275537E1009F936B /* Views */,
 				2B357AB6275537E1009F936B /* ViewControllers */,
 				2B357A8E275537E1009F936B /* ViewModels */,
-				2B357A96275537E1009F936B /* Views */,
+				2B357A9F275537E1009F936B /* Lib */,
+				2B357A9B275537E1009F936B /* Resources */,
 			);
 			path = KLM_P;
 			sourceTree = "<group>";
@@ -195,10 +195,10 @@
 		2B357A9F275537E1009F936B /* Lib */ = {
 			isa = PBXGroup;
 			children = (
-				2B357AA0275537E1009F936B /* UIDevice+Extension.swift */,
 				2B357AA1275537E1009F936B /* UI */,
-				2B357AA6275537E1009F936B /* UserDefaultsHelper.swift */,
 				2B357AA7275537E1009F936B /* Networking */,
+				2B357AA0275537E1009F936B /* UIDevice+Extension.swift */,
+				2B357AA6275537E1009F936B /* UserDefaultsHelper.swift */,
 				2B357AB0275537E1009F936B /* MainTabBarController.swift */,
 				2B357AB1275537E1009F936B /* ImageHelper.swift */,
 			);
